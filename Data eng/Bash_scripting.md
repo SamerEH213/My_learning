@@ -9,12 +9,16 @@
     - consol --> The interface where users can input commands and execute them to perform specific tasks or operations, python interpreter .
  
 - Usefull commands :
-  - source --> command is used to execute the content of a script within the current shell environment, ex:source /path/to/myscript.sh  .
+  - source --> command is used to execute the content of a script within the current shell environment, ex:source /path/to/myscript.sh .
   - whoami -->  is used to print the username of the current user .
   - ifconfig (linux)--> print public ip address .
   - ipconfig getifaddr en0 (mac) --> print public ip address .
   - 
-       
+
+- bashrc:
+- What is .bashrc? file is a script file that’s executed when a user logs in. The file itself contains a series of configurations for the terminal session.
+![422315820_768397928496285_9102485688114856271_n](https://github.com/SamerEH213/My_learning/assets/125601349/7aae8970-9e42-4024-9559-e213ba70d135)
+
 # Piping..
 - What is shell piping? 
 ![WhatsApp Image 2024-02-02 at 19 59 52](https://github.com/SamerEH213/My_learning/assets/125601349/a752d0b1-49ec-439c-987d-303be154685c)
